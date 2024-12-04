@@ -25,7 +25,7 @@ This repository contains solutions to challenges from **Frontend Mentor**, showc
 - **Tools:**  
   - Visual Studio Code  
   - Node.js  
-  - NPM/Yarn  
+  - NPM 
 
 ---
 
@@ -39,15 +39,15 @@ This repository contains solutions to challenges from **Frontend Mentor**, showc
 
 ## HTML/CSS/JavaScript
 
-- [QR Code](https://qr-code-main.onrender.com)
-- [Four Card](https://frontend-mentor-a4h7.onrender.com)
-- [Result Summary Component](https://results-summary-component-main-25tf.onrender.com)
-- [Interactive Rating Component](https://interactive-rating-component-main-main.onrender.com)
-- [NFT Preview Card Component](https://nft-preview-card-component-main-ytiq.onrender.com)
-- [Order Summary Component](https://order-summary-component-main-dxc1.onrender.com)
-- [Stats Preview Card Component](https://stats-preview-card-component-main-main.onrender.com)
-- [Three Column Preview Card Component](https://three-column-preview-card-component-main-ai8l.onrender.com)
-- [Profile Card Component](https://profile-card-component-main-x508.onrender.com)
-- [FAQ Accordion Card](https://faq-accordion-card-main.onrender.com)
-- [Social Proof Section](https://social-proof-section-main.onrender.com)
-- [Product Preview Card Component](https://product-preview-card-component-main-main.onrender.com)
+1. [QR Code](https://qr-code-main.onrender.com)
+1. [Four Card](https://frontend-mentor-a4h7.onrender.com)
+1. [Result Summary Component](https://results-summary-component-main-25tf.onrender.com)
+1. [Interactive Rating Component](https://interactive-rating-component-main-main.onrender.com)
+1. [NFT Preview Card Component](https://nft-preview-card-component-main-ytiq.onrender.com)
+1. [Order Summary Component](https://order-summary-component-main-dxc1.onrender.com)
+1. [Stats Preview Card Component](https://stats-preview-card-component-main-main.onrender.com)
+1. [Three Column Preview Card Component](https://three-column-preview-card-component-main-ai8l.onrender.com)
+1. [Profile Card Component](https://profile-card-component-main-x508.onrender.com)
+1. [FAQ Accordion Card](https://faq-accordion-card-main.onrender.com)
+1. [Social Proof Section](https://social-proof-section-main.onrender.com)
+1. [Product Preview Card Component](https://product-preview-card-component-main-main.onrender.com)
